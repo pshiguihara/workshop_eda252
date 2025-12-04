@@ -201,5 +201,3 @@ conda clean -tp
 
 ---
 
-## Diplomado
-**Diplomado de Especialización en Data Analytics**
